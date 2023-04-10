@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'utec.edu.sv.guia4ejercicio2'
+    namespace 'utec.edu.sv.guia5ejercicio2'
     compileSdk 33
 
     defaultConfig {
-        applicationId "utec.edu.sv.guia4ejercicio2"
+        applicationId "utec.edu.sv.guia5ejercicio2"
         minSdk 24
         targetSdk 33
         versionCode 1

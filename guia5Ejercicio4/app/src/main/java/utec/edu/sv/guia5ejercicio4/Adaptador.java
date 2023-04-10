@@ -1,4 +1,4 @@
-package utec.edu.sv.guia4ejercicio4;
+package utec.edu.sv.guia5ejercicio4;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -18,7 +18,7 @@ public class Adaptador extends BaseAdapter {
     List <String> dirreccion;
     int[]imagenes;
 
-    public Adaptador(Context contexto, int layout, List<String> nombre,List<String> edad, List<String> dirreccion, int[] img) {
+    public Adaptador(Context contexto, int layout, List<String> nombre, List<String> edad, List<String> dirreccion, int[] img) {
         this.contexto = contexto;
         this.layout = layout;
         this.nombre = nombre;

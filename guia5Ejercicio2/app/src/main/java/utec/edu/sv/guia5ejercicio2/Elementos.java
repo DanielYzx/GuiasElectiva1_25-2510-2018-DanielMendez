@@ -1,4 +1,4 @@
-package utec.edu.sv.guia4ejercicio2;
+package utec.edu.sv.guia5ejercicio2;
 
 import android.view.View;
 import android.widget.ImageView;

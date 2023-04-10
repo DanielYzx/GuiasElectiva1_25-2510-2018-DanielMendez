@@ -1,18 +1,13 @@
-package utec.edu.sv.guia4ejercicio2;
+package utec.edu.sv.guia5ejercicio2;
 
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import androidx.annotation.NonNull;
-import androidx.recyclerview.widget.RecyclerView;
-
-import java.util.ArrayList;
 import java.util.List;
 
 public class Adaptador extends BaseAdapter {
@@ -23,7 +18,7 @@ public class Adaptador extends BaseAdapter {
 
     int[]imagenes;
 
-    public Adaptador(Context contexto, int layout, List<String> nombre,List<String> descriptionn, int[] img) {
+    public Adaptador(Context contexto, int layout, List<String> nombre, List<String> descriptionn, int[] img) {
         this.contexto = contexto;
         this.layout = layout;
         this.nombre = nombre;

@@ -1,4 +1,4 @@
-package utec.edu.sv.guia4ejercicio4;
+package utec.edu.sv.guia5ejercicio2;
 
 import org.junit.Test;
 
