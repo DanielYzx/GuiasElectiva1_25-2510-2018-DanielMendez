@@ -58,6 +58,8 @@
             android:textStyle="italic"
             app:layout_constraintStart_toStartOf="@+id/txtValor"
             app:layout_constraintTop_toBottomOf="@+id/txtValor" />
+
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
